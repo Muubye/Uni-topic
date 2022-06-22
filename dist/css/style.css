@@ -156,6 +156,10 @@ footer {
   .section-hero .container h1 {
     font-size: 3.2rem;
   }
+  .section-how .container .featured p {
+    width: 78%;
+    text-align: left;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
